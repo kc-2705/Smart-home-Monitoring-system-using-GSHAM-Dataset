@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+# Datasets are too large for GitHub (see README)
+*.csv
